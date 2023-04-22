@@ -1,0 +1,14 @@
+.menu{
+  width: 50%;
+  &__item{
+    color: #404040;
+    font-size: 18px;
+    display: block;
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  }
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+}
